@@ -1,0 +1,5 @@
+name_value = "tfstorageaccountname6564"
+resource_group_name_value = "app-rg"
+location_value = "Central India"
+account_tier_value = "Standard"
+account_replication_type_value = "LRS"
